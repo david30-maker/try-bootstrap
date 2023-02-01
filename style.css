@@ -48,7 +48,7 @@
     text-align: center;
     position: absolute;
     top: 50%;
-    left: 50%;
+    left:50%;
     transform: translate(-50%, -50%);
     color: black;
 }
@@ -113,4 +113,13 @@
 .nav-item .nav-link {
     font-size: 24px;
     font-weight: 600;
+}
+.link{
+    display:inline;
+}
+.paragraph{
+    display: inline;
+}
+.background{
+    background: #DFE1E6;
 }
