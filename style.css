@@ -6,7 +6,6 @@
 
   .div-cont{
     border-bottom-left-radius: 10px;
-    margin-bottom: 30px;
   }
 
 .bgimage {
@@ -15,6 +14,29 @@
     background-size:cover;
     position:relative;
 }
+
+
+.div-container {
+    background-image:
+    url(images/ellipse_3.png),
+    url(images/Ellipse_4.png),
+    url(images/Ellipse_6.png),
+    url(images/ellipse_11.png),
+    url(images/Rectangle_4.png),
+    url(images/Rectangle_6.png),
+    url(images/Rectangle_5.png),
+    url(images/Rectangle-17.png),
+    url(images/ellipse_12.png),
+    url(images/Ellipse_8.png),
+    url(images/Ellipse_13.png),
+    url(images/Ellipse_2.png),
+    url(images/ellipse_7.png),
+    url(images/ellipse_5.png);
+  background-position-x: 98%, 56%, 30%, 2%, 95%, 0.7%, 54%, 50%, 6%, 30%, 5%, 78%, 70%, 50%;
+  background-position-y: 22%, 88%, 15%, 15%, 16.6%, 12.8%, 90%, 19.8%, 90.1%, 15%, 91.9%, 76%, 15%, 21%;
+  background-repeat: no-repeat;
+}
+
 /* text css above hero image*/
 .hero_title {
     font-size: 4.5rem;
