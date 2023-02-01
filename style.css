@@ -4,15 +4,14 @@
     box-sizing: border-box;
   }
 
-  .navbarScroll.navbarDark {
-box-shadow: 0 0.25px 8px 0 rgba(169, 169, 175, 0.2);
-width: 100%;
-    background-color: black;
-}
+  .div-cont{
+    border-bottom-left-radius: 10px;
+    margin-bottom: 30px;
+  }
 
 .bgimage {
     height:100vh;
-    background: url('images/Portfolio_3.png');
+   /* background: url('images/Portfolio_3.png');*/
     background-size:cover;
     position:relative;
 }
